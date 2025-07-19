@@ -16,11 +16,11 @@ Stable Diffusion (via Hugging Face Spaces)
 
 | Image 1 | Image 2 |
 |--------|--------|
-| ![Image 1](./celestial_goddess_1.png) | ![Image 2](./celestial_goddess_2.png) |
+| ![Image 1](celestial_goddess_1.png.jpg) | ![Image 2](celestial_goddess_2.png.jpg) |
 
 | Image 3 | Image 4 |
 |--------|--------|
-| ![Image 3](./celestial_goddess_3.png) | ![Image 4](./celestial_goddess_4.png) |
+| ![Image 3](celestial_goddess_3.png.jpg) | ![Image 4](celestial_goddess_4.png.jpg) |
 
 ## 📝 Summary
 In this task, I explored text-to-image generation using Stable Diffusion hosted on Hugging Face Spaces.  
